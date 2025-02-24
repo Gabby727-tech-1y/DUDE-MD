@@ -8,30 +8,30 @@ src="https://i.ibb.co/ZpwXnDm3/temp-image.jpg?">
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263780934873"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Gabby727-tech-1y"><img title="Author" src="https://img.shields.io/badge/Gabby727-tech-1y King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233532871325"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/JINWOO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/JINWOO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/JINWOO-BOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/JINWOO-BOT?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FJINWOO-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/JINWOO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{JINWOO-BOT}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
+<a href="https://github.com/Gabby727-tech-1y/followers"><img title="Followers" src="https://img.shields.io/github/followers/Gabby727-tech-1y?color=purple&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gabby727-tech-1y/DUDE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gabby727-tech-1y/DUDE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gabby727-tech-1y/DUDE-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/JINWOO-BOT?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabby727-tech-1y%2FDUDE-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{DUDE-MD}/count.svg" alt="Gabby727-tech-1y :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Gabby727-tech-1y}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/kingmalvn/JINWOO"BOT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JINWOO-BOT&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/Gabby727-tech-1y/DUDE"MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DUDE-MD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/kingmalvn/JINWOO-BOT"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Gabby727-tech-1y/DUDE-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `JINBOT INSTALATION`
+## 🛠️ `DUDEBOT INSTALATION`
 
 
 
@@ -41,7 +41,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/kingmalvn/JINWOO-BOT/fork"><img title="JINWOO-V2" src="https://img.shields.io/badge/FORK-JINWOO-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/fork"><img title="DUDE-V1" src="https://img.shields.io/badge/FORK-DUDE-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -65,13 +65,13 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FJINWOO-BOT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGabby727-tech-1y%2FDUDE-MD) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/kingmalvn/JINWOO-BOT)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Gabby727-tech-1y/DUDE-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -98,7 +98,7 @@ Click the button below to fork the JIN Bot repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search JINWOO-BOT, and connect.
+* Search DUDE-MD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -210,25 +210,25 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 </p>
 
 ##
-* Need help? please create an <a href="https://github.com/kingmalvn/JINWOO-BOT/issues">issue</a></p>
+* Need help? please create an <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/issues">issue</a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ##
 - Star ⭐ this repository if you like Jinwoo Bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/263780934873)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/233532871325)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
 
-- *`JINWOO BOT` is not affiliated with `WhatsApp Inc`.*
+- *`DUDE MD` is not affiliated with `WhatsApp Inc`.*
 - *Misusing the bot may result in account banning.*
 - *Use at your own risk.*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ##
- [ JINWOO WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+ [ DUDE WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vb7CM0TLCoWxjzVjNL0w)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
