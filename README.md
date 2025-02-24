@@ -8,7 +8,7 @@ src="https://i.ibb.co/ZpwXnDm3/temp-image.jpg?">
 
    </p>
 <p align="center">
-<a href="https://github.com/Gabby727-tech-1y"><img title="Author" src="https://img.shields.io/badge/Gabby727-tech-1y King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233532871325"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Gabby727-tech-1y"><img title="Author" src="https://img.shields.io/badge/Gabby727-tech-1y Gabby727-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Gabvintech2"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233532871325"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -16,7 +16,7 @@ src="https://i.ibb.co/ZpwXnDm3/temp-image.jpg?">
 <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gabby727-tech-1y/DUDE-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gabby727-tech-1y/DUDE-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gabby727-tech-1y/DUDE-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/JINWOO-BOT?style=flat-square&color=green"></a>
+<a href="https://github.com/Gabby727-tech-1y/DUDE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Gabby727-tech-1y/DUDE-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabby727-tech-1y%2FDUDE-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Gabby727-tech-1y/DUDE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
 <p align="center"><img src="https://profile-counter.glitch.me/{DUDE-MD}/count.svg" alt="Gabby727-tech-1y :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Gabby727-tech-1y}/count.svg" /></p>
