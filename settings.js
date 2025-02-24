@@ -14,7 +14,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'DUDE~owpEzZxb#l7AtXWzNn2u_2wMuEgKjKDkTK2AmtXqziQIt5TM10dg' 
 //Enter your DUDE MD session id here; must start with DUDE~
 
 //=================================================//
@@ -22,7 +22,7 @@ global.botname = process.env.BOT_NAME || 'DUDE-MD V2'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '233544218884' 
 //Type your main number here
 
 //=================================================//
